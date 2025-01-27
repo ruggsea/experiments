@@ -1,0 +1,20 @@
+# finetuning
+finetuning/
+
+# wandb
+wandb/
+
+# . things
+.DS_Store
+.env
+
+# .cache
+.cache/
+
+# anything python cache
+__pycache__/
+
+# logs
+logs/
+
+
