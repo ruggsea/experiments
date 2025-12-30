@@ -1,0 +1,22 @@
+================================================================================
+HAND AND BRAIN CHESS - EXPERIMENT CONFIGURATION
+================================================================================
+Stockfish path:     /usr/games/stockfish
+Think time:         0.1s per move
+Elo levels:         [1000, 1200, 1400, 1600, 1800, 2000, 2200]
+Games per config:   10
+Max moves:          200
+Output directory:   hand_brain_chess/results/full/
+Detailed analysis:  False
+Random seed:        42
+================================================================================
+
+This will run 420 total games across 21 configurations.
+Estimated time: ~28.0 minutes
+
+Starting experiment...
+
+Running 21 experiment configurations
+Games per config: 10
+Total games: 420
+Experiments:   0%|          | 0/21 [00:00<?, ?it/s]Experiments:   5%|▍         | 1/21 [07:55<2:38:37, 475.89s/it]Experiments:  10%|▉         | 2/21 [17:28<2:48:46, 533.00s/it]
