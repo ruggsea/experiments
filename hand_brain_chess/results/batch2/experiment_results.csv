@@ -1,0 +1,7 @@
+game_id,strong_elo,weak_elo,skill_gap,strong_role,weak_role,white_team_config,color,result,move_count,avg_complexity,termination
+1,1800,1400,400,brain,hand,strong_brain,white,0.5,192,26.572916666666668,insufficient_material
+2,1800,1400,400,brain,hand,strong_hand,black,0.0,121,30.214876033057852,checkmate
+3,1800,1400,400,brain,hand,strong_brain,white,0.5,200,26.595,max_moves
+4,1800,1400,400,hand,brain,strong_hand,white,0.0,136,32.6764705882353,checkmate
+5,1800,1400,400,hand,brain,strong_brain,black,0.0,123,23.1869918699187,checkmate
+6,1800,1400,400,hand,brain,strong_hand,white,0.0,126,28.873015873015873,checkmate
